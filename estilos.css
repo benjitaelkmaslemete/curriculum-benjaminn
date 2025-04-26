@@ -1,0 +1,42 @@
+body {
+    margin: 20px;
+    font-family: Arial, sans-serif;
+}
+.seccion {
+    border: 4px solid #0079fa;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 20px;
+  
+}
+.foto {
+    width: 100px;
+    height: 100px;
+    background-color: #f8f9fa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+    border-radius: 50%;
+    overflow: hidden;
+    
+}
+.contacto i {
+    font-size: 24px;
+    margin-right: 10px;
+}
+.icono-contacto {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+h3 {
+    margin-top: 10px;
+    font-size: 1.2rem;
+    color: #007bff;
+}
+ul {
+    padding-left: 20px;
+}
+
+
